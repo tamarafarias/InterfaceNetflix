@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfaceNetflix</string>
+    <string name="Menu_legendas">Legendas</string>
+    <string name="Controle_volume">Volume</string>
+    <string name="Favoritar_ep">Favoritar</string>
+    <string name="Episódios_da_temporada">Episódios</string>
+</resources>
